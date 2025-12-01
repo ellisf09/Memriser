@@ -1,0 +1,675 @@
+{
+    "playground": [
+        "cour"
+    ],
+    "subject": [
+        "matière"
+    ],
+    "step-sister": [
+        "demi-sœur"
+    ],
+    "twin": [
+        "jumelle",
+        "jumeau",
+        "jumeaux"
+    ],
+    "better": [
+        "meilleur"
+    ],
+    "secondary school": [
+        "collège"
+    ],
+    "lesson": [
+        "cours",
+        "leçon"
+    ],
+    "home": [
+        "maison",
+        "foyer"
+    ],
+    "jumper": [
+        "pull"
+    ],
+    "public": [
+        "public",
+        "publique"
+    ],
+    "family": [
+        "famille",
+        "familial"
+    ],
+    "room": [
+        "chambre",
+        "salle"
+    ],
+    "reading": [
+        "lecture"
+    ],
+    "board": [
+        "tableau"
+    ],
+    "great": [
+        "grand",
+        "grand; grand-"
+    ],
+    "present": [
+        "cadeau"
+    ],
+    "red": [
+        "rouge",
+        "roux"
+    ],
+    "to listen": [
+        "écouter"
+    ],
+    "difficulty": [
+        "difficulté"
+    ],
+    "generation": [
+        "génération"
+    ],
+    "mother": [
+        "mère"
+    ],
+    "bedroom": [
+        "chambre"
+    ],
+    "dead": [
+        "mort"
+    ],
+    "active": [
+        "actif"
+    ],
+    "patient": [
+        "patient"
+    ],
+    "husband": [
+        "mari"
+    ],
+    "adult": [
+        "adulte"
+    ],
+    "quiet": [
+        "calme"
+    ],
+    "strict": [
+        "strict"
+    ],
+    "birthday": [
+        "anniversaire"
+    ],
+    "sporty": [
+        "sportif"
+    ],
+    "to run*": [
+        "courir*"
+    ],
+    "music": [
+        "musique"
+    ],
+    "teacher": [
+        "professeur, prof"
+    ],
+    "to phone": [
+        "téléphoner"
+    ],
+    "table": [
+        "table"
+    ],
+    "hardworking": [
+        "travailleuse",
+        "travailleur"
+    ],
+    "to learn": [
+        "apprendre"
+    ],
+    "woman": [
+        "femme"
+    ],
+    "parent": [
+        "parent"
+    ],
+    "mark": [
+        "note"
+    ],
+    "second": [
+        "seconde"
+    ],
+    "club": [
+        "club"
+    ],
+    "sport": [
+        "sport"
+    ],
+    "glasses": [
+        "lunettes"
+    ],
+    "to invite": [
+        "inviter"
+    ],
+    "to smell; to feel": [
+        "sentir; se sentir"
+    ],
+    "to be...years old": [
+        "avoir...ans"
+    ],
+    "to ignore": [
+        "ignorer"
+    ],
+    "loyal": [
+        "fidele",
+        "fidèle"
+    ],
+    "sir": [
+        "monsieur"
+    ],
+    "strong": [
+        "fort"
+    ],
+    "age": [
+        "âge"
+    ],
+    "to look like": [
+        "ressembler à"
+    ],
+    "to wear": [
+        "porter"
+    ],
+    "long": [
+        "long"
+    ],
+    "excellent": [
+        "excellent"
+    ],
+    "extraordinary": [
+        "extraordinaire"
+    ],
+    "park": [
+        "parc"
+    ],
+    "glad": [
+        "content"
+    ],
+    "sad": [
+        "triste"
+    ],
+    "group": [
+        "groupe"
+    ],
+    "social": [
+        "social"
+    ],
+    "neighbour": [
+        "voisin"
+    ],
+    "alone": [
+        "seul"
+    ],
+    "start of school year": [
+        "rentrée"
+    ],
+    "exercise book": [
+        "cahier"
+    ],
+    "to work": [
+        "travailler"
+    ],
+    "born": [
+        "né"
+    ],
+    "secret": [
+        "secret"
+    ],
+    "difficult": [
+        "difficile"
+    ],
+    "to look for": [
+        "chercher"
+    ],
+    "festival": [
+        "fête"
+    ],
+    "girl": [
+        "fille"
+    ],
+    "to have": [
+        "avoir"
+    ],
+    "friend": [
+        "copine",
+        "copain",
+        "ami",
+        "amie"
+    ],
+    "proud": [
+        "fier"
+    ],
+    "appointment": [
+        "rendez-vous"
+    ],
+    "skirt": [
+        "jupe"
+    ],
+    "sock": [
+        "chaussette"
+    ],
+    "eyes": [
+        "yeux"
+    ],
+    "house": [
+        "maison"
+    ],
+    "boy": [
+        "garçon"
+    ],
+    "man": [
+        "homme"
+    ],
+    "reunite": [
+        "réunir"
+    ],
+    "child": [
+        "enfant"
+    ],
+    "brother": [
+        "frère"
+    ],
+    "work": [
+        "travail"
+    ],
+    "to go out": [
+        "sortir"
+    ],
+    "art": [
+        "art"
+    ],
+    "relationship": [
+        "relation"
+    ],
+    "kind": [
+        "gentil",
+        "gentille"
+    ],
+    "to meet (up)": [
+        "rencontrer"
+    ],
+    "madam": [
+        "madame"
+    ],
+    "to recall": [
+        "rappeler; se rappeler de"
+    ],
+    "research": [
+        "recherche"
+    ],
+    "hand": [
+        "main"
+    ],
+    "page": [
+        "page"
+    ],
+    "aid": [
+        "aide"
+    ],
+    "ideal": [
+        "idéal"
+    ],
+    "cinema": [
+        "cinéma"
+    ],
+    "emotion": [
+        "émotion"
+    ],
+    "busy": [
+        "occupé"
+    ],
+    "private": [
+        "privé"
+    ],
+    "exam": [
+        "examen"
+    ],
+    "exchange": [
+        "échange"
+    ],
+    "theatre": [
+        "théâtre"
+    ],
+    "holidays": [
+        "vacances"
+    ],
+    "equipment": [
+        "équipement"
+    ],
+    "uniform": [
+        "uniforme"
+    ],
+    "building": [
+        "bâtiment"
+    ],
+    "to spend (time)": [
+        "passer; se passer"
+    ],
+    "to present; to introduce yourself": [
+        "présenter; se présenter"
+    ],
+    "to arrive; to manage": [
+        "arriver; arriver à"
+    ],
+    "to respect": [
+        "respecter"
+    ],
+    "to understand": [
+        "comprendre"
+    ],
+    "bag": [
+        "sac"
+    ],
+    "lunch": [
+        "déjeuner"
+    ],
+    "clothes": [
+        "vêtements"
+    ],
+    "quality": [
+        "qualité"
+    ],
+    "school": [
+        "école",
+        "scolaire"
+    ],
+    "maths": [
+        "maths"
+    ],
+    "hour": [
+        "heure"
+    ],
+    "shirt": [
+        "chemise"
+    ],
+    "toilet(s)": [
+        "toilettes"
+    ],
+    "bus": [
+        "bus"
+    ],
+    "to play (+ noun e.g. sport/instrument)": [
+        "jouer"
+    ],
+    "grandfather": [
+        "grand-père"
+    ],
+    "to study": [
+        "étudier"
+    ],
+    "to have to": [
+        "devoir*"
+    ],
+    "small": [
+        "petit"
+    ],
+    "to be": [
+        "être"
+    ],
+    "to send": [
+        "envoyer"
+    ],
+    "story": [
+        "histoire"
+    ],
+    "member": [
+        "membre"
+    ],
+    "to go": [
+        "aller"
+    ],
+    "fourth": [
+        "quatrième"
+    ],
+    "pen": [
+        "stylo"
+    ],
+    "trousers": [
+        "pantalon"
+    ],
+    "young; young person": [
+        "jeune; jeune"
+    ],
+    "activity": [
+        "activité"
+    ],
+    "to avoid": [
+        "éviter"
+    ],
+    "birth": [
+        "naissance"
+    ],
+    "hair": [
+        "cheveux"
+    ],
+    "uncle": [
+        "oncle"
+    ],
+    "pupil": [
+        "élève"
+    ],
+    "dance": [
+        "danse"
+    ],
+    "opinion": [
+        "avis"
+    ],
+    "personal": [
+        "personnel"
+    ],
+    "concert": [
+        "concert"
+    ],
+    "result": [
+        "résultat"
+    ],
+    "third": [
+        "troisième"
+    ],
+    "weak": [
+        "faible"
+    ],
+    "step-mother": [
+        "belle-mère"
+    ],
+    "attitude": [
+        "attitude"
+    ],
+    "text": [
+        "texte"
+    ],
+    "life": [
+        "vie"
+    ],
+    "effort": [
+        "effort"
+    ],
+    "souvenir": [
+        "souvenir"
+    ],
+    "event": [
+        "événement ^"
+    ],
+    "to do": [
+        "faire; faire de + noun*"
+    ],
+    "to forbid": [
+        "interdire de"
+    ],
+    "classroom": [
+        "classe"
+    ],
+    "partner": [
+        "partenaire"
+    ],
+    "to inspire": [
+        "inspirer"
+    ],
+    "technology": [
+        "technologie"
+    ],
+    "to speak": [
+        "parler"
+    ],
+    "pitch (sports)": [
+        "terrain"
+    ],
+    "education": [
+        "éducation"
+    ],
+    "break (time)": [
+        "pause"
+    ],
+    "sixth form": [
+        "lycée"
+    ],
+    "experience": [
+        "expérience"
+    ],
+    "mobile phone": [
+        "portable"
+    ],
+    "to count (on)": [
+        "compter"
+    ],
+    "grandmother": [
+        "grand-mère"
+    ],
+    "blond": [
+        "blond"
+    ],
+    "to improve": [
+        "améliorer"
+    ],
+    "paper": [
+        "papier"
+    ],
+    "to adopt": [
+        "adopter"
+    ],
+    "science": [
+        "science"
+    ],
+    "popular": [
+        "populaire"
+    ],
+    "model": [
+        "modèle"
+    ],
+    "responsible": [
+        "responsable"
+    ],
+    "community": [
+        "communauté"
+    ],
+    "rule": [
+        "règle"
+    ],
+    "visit": [
+        "visite"
+    ],
+    "son": [
+        "fils"
+    ],
+    "independent": [
+        "indépendant"
+    ],
+    "sister": [
+        "sœur"
+    ],
+    "personality": [
+        "personnalité"
+    ],
+    "father": [
+        "père"
+    ],
+    "success": [
+        "succès"
+    ],
+    "language": [
+        "langue"
+    ],
+    "shopping centre": [
+        "centre commercial"
+    ],
+    "aunt": [
+        "tante"
+    ],
+    "grandparents": [
+        "grands-parents"
+    ],
+    "step-brother": [
+        "demi-frère"
+    ],
+    "step-father": [
+        "beau-père"
+    ],
+    "to separate": [
+        "séparer; se séparer"
+    ],
+    "unique": [
+        "unique"
+    ],
+    "nice": [
+        "agréable"
+    ],
+    "to lift": [
+        "lever; se lever"
+    ],
+    "show": [
+        "spectacle"
+    ],
+    "older": [
+        "aîné^"
+    ],
+    "surprise": [
+        "surprise"
+    ],
+    "at (the house of)": [
+        "chez"
+    ],
+    "to live": [
+        "habiter"
+    ],
+    "to dress; to get dressed": [
+        "habiller; s’habiller"
+    ],
+    "shoe": [
+        "chaussure"
+    ],
+    "homework": [
+        "devoirs"
+    ],
+    "to succeed": [
+        "réussir"
+    ],
+    "exit": [
+        "sortie"
+    ],
+    "to gather": [
+        "réunir"
+    ],
+    "friendship": [
+        "amitié"
+    ],
+    "to party": [
+        "faire la fête"
+    ],
+    "book": [
+        "livre"
+    ],
+    "easy": [
+        "facile"
+    ],
+    "religion": [
+        "religion"
+    ],
+    "studies": [
+        "études"
+    ]
+}
