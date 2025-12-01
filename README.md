@@ -3,7 +3,7 @@
 **Self-learning** Memrise bot with Google Translate support.
 You MUST have google chrome installed!
 INSTALLATION:
-1. download the .zip
+1. download the .zip (click ```Code``` then ```Download ZIP```)
 2. unzip the .zip somewhere
 3. create a .env file in the same directory
 4. Add this to the .env file:<br>
