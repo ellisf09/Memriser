@@ -1,0 +1,497 @@
+2025-12-03 16:25:34,452 - INFO - MemriseBot initialized
+2025-12-03 16:25:36,126 - INFO - Chrome driver initialized
+2025-12-03 16:25:36,126 - INFO - Logging in...
+2025-12-03 16:25:37,533 - INFO - Logged in successfully
+2025-12-03 16:25:37,533 - INFO - Starting speed review...
+2025-12-03 16:25:41,187 - INFO - Speed review started
+2025-12-03 16:25:41,187 - INFO - Starting main loop...
+2025-12-03 16:25:42,997 - INFO - [92mCORRECT: alone -> seul[0m
+2025-12-03 16:25:43,249 - INFO - [92mCORRECT: born -> né[0m
+2025-12-03 16:25:43,507 - INFO - [92mCORRECT: secret -> secret (m)[0m
+2025-12-03 16:25:43,748 - INFO - [92mCORRECT: exercise book -> cahier (m)[0m
+2025-12-03 16:25:43,988 - INFO - [92mCORRECT: difficult -> difficile[0m
+2025-12-03 16:25:44,225 - INFO - [92mCORRECT: friend -> copine (f)[0m
+2025-12-03 16:25:44,449 - INFO - [92mCORRECT: twin -> jumelle (f)[0m
+2025-12-03 16:25:44,720 - ERROR - [91mWRONG: twin -> gave: jumeaux (mpl) | correct: jumeau[0m
+2025-12-03 16:25:44,971 - INFO - [92mCORRECT: twin -> jumeaux (mpl)[0m
+2025-12-03 16:25:45,213 - INFO - [92mCORRECT: school -> scolaire[0m
+2025-12-03 16:25:45,437 - INFO - [92mCORRECT: home -> foyer (m)[0m
+2025-12-03 16:25:45,662 - INFO - [92mCORRECT: family -> familial[0m
+2025-12-03 16:25:45,891 - INFO - [92mCORRECT: to listen -> écouter[0m
+2025-12-03 16:25:46,115 - INFO - [92mCORRECT: glasses -> lunettes (fpl)[0m
+2025-12-03 16:25:46,333 - INFO - [92mCORRECT: music -> musique (f)[0m
+2025-12-03 16:25:46,590 - INFO - [92mCORRECT: teacher -> professeur, prof (mf)[0m
+2025-12-03 16:25:46,821 - INFO - [92mCORRECT: to run* -> courir*[0m
+2025-12-03 16:25:47,054 - INFO - [92mCORRECT: to phone -> téléphoner[0m
+2025-12-03 16:25:47,269 - INFO - [92mCORRECT: to learn -> apprendre[0m
+2025-12-03 16:25:47,489 - INFO - [92mCORRECT: table -> table (f)[0m
+2025-12-03 16:25:47,709 - ERROR - [91mWRONG: hardworking -> gave: travailler | correct: travailleuse[0m
+2025-12-03 16:25:47,950 - INFO - [92mCORRECT: to invite -> inviter[0m
+2025-12-03 16:25:48,237 - INFO - [92mCORRECT: to be...years old -> avoir...ans[0m
+2025-12-03 16:25:48,546 - INFO - [92mCORRECT: to smell; to feel -> sentir; se sentir[0m
+2025-12-03 16:25:48,838 - INFO - [92mCORRECT: club -> club (m)[0m
+2025-12-03 16:25:49,100 - INFO - [92mCORRECT: sport -> sport (m)[0m
+2025-12-03 16:25:49,344 - INFO - [92mCORRECT: to wear -> porter[0m
+2025-12-03 16:25:49,630 - INFO - [92mCORRECT: age -> âge (m)[0m
+2025-12-03 16:25:49,882 - INFO - [92mCORRECT: to ignore -> ignorer[0m
+2025-12-03 16:25:50,122 - INFO - [92mCORRECT: loyal -> fidèle[0m
+2025-12-03 16:25:50,356 - INFO - [92mCORRECT: long -> long (m)[0m
+2025-12-03 16:25:50,583 - INFO - [92mCORRECT: to look like -> ressembler à[0m
+2025-12-03 16:25:50,802 - INFO - [92mCORRECT: excellent -> excellent[0m
+2025-12-03 16:25:51,018 - INFO - [92mCORRECT: sir -> monsieur[0m
+2025-12-03 16:25:51,235 - INFO - [92mCORRECT: strong -> fort[0m
+2025-12-03 16:25:51,453 - INFO - [92mCORRECT: group -> groupe (m)[0m
+2025-12-03 16:25:51,667 - INFO - [92mCORRECT: extraordinary -> extraordinaire[0m
+2025-12-03 16:25:51,892 - INFO - [92mCORRECT: park -> parc (m)[0m
+2025-12-03 16:25:52,114 - INFO - [92mCORRECT: sad -> triste[0m
+2025-12-03 16:25:52,331 - INFO - [92mCORRECT: social -> social[0m
+2025-12-03 16:25:52,545 - INFO - [92mCORRECT: man -> homme (m)[0m
+2025-12-03 16:25:52,766 - INFO - [92mCORRECT: house -> maison (f)[0m
+2025-12-03 16:25:52,984 - INFO - [92mCORRECT: boy -> garçon (m)[0m
+2025-12-03 16:25:53,241 - INFO - [92mCORRECT: child -> enfant (mf)[0m
+2025-12-03 16:25:53,470 - INFO - [92mCORRECT: ideal -> idéal[0m
+2025-12-03 16:25:53,686 - INFO - [92mCORRECT: to party -> faire la fête[0m
+2025-12-03 16:25:53,924 - INFO - [92mCORRECT: busy -> occupé[0m
+2025-12-03 16:25:54,143 - INFO - [92mCORRECT: cinema -> cinéma (m)[0m
+2025-12-03 16:25:54,357 - INFO - [92mCORRECT: to recall -> rappeler; se rappeler de[0m
+2025-12-03 16:25:54,584 - ERROR - [91mWRONG: madam -> gave: madame | correct: madame[0m
+2025-12-03 16:25:55,667 - WARNING - Retry button disabled, reloading page...
+2025-12-03 16:26:00,253 - INFO - [92mCORRECT: research -> recherche (f)[0m
+2025-12-03 16:26:00,542 - INFO - [92mCORRECT: emotion -> émotion (f)[0m
+2025-12-03 16:26:00,800 - INFO - [92mCORRECT: page -> page (f)[0m
+2025-12-03 16:26:01,071 - INFO - [92mCORRECT: aid -> aide (f)[0m
+2025-12-03 16:26:01,318 - INFO - [92mCORRECT: private -> privé[0m
+2025-12-03 16:26:01,562 - INFO - [92mCORRECT: to spend (time) -> passer; se passer[0m
+2025-12-03 16:26:01,799 - INFO - [92mCORRECT: exam -> examen (m)[0m
+2025-12-03 16:26:02,023 - INFO - [92mCORRECT: exchange -> échange (m)[0m
+2025-12-03 16:26:02,249 - INFO - [92mCORRECT: theatre -> théâtre (m)[0m
+2025-12-03 16:26:02,487 - INFO - [92mCORRECT: equipment -> équipement (m)[0m
+2025-12-03 16:26:02,712 - INFO - [92mCORRECT: to understand -> comprendre[0m
+2025-12-03 16:26:02,931 - INFO - [92mCORRECT: holidays -> vacances (fpl)[0m
+2025-12-03 16:26:03,161 - INFO - [92mCORRECT: uniform -> uniforme (m)[0m
+2025-12-03 16:26:03,400 - INFO - [92mCORRECT: building -> bâtiment (m)[0m
+2025-12-03 16:26:03,644 - INFO - [92mCORRECT: quality -> qualité (f)[0m
+2025-12-03 16:26:03,895 - INFO - [92mCORRECT: to respect -> respecter[0m
+2025-12-03 16:26:04,135 - INFO - [92mCORRECT: hour -> heure (f)[0m
+2025-12-03 16:26:04,381 - INFO - [92mCORRECT: school -> école (f)[0m
+2025-12-03 16:26:04,617 - INFO - [92mCORRECT: secondary school -> collège (m)[0m
+2025-12-03 16:26:04,870 - INFO - [92mCORRECT: to be -> être[0m
+2025-12-03 16:26:05,120 - INFO - [92mCORRECT: bag -> sac (m)[0m
+2025-12-03 16:26:05,377 - INFO - [92mCORRECT: clothes -> vêtements (mpl)[0m
+2025-12-03 16:26:05,638 - INFO - [92mCORRECT: lunch -> déjeuner (m)[0m
+2025-12-03 16:26:05,886 - INFO - [92mCORRECT: to go -> aller[0m
+2025-12-03 16:26:06,118 - INFO - [92mCORRECT: to play (+ noun e.g. sport/instrument) -> jouer (à/de)[0m
+2025-12-03 16:26:06,349 - INFO - [92mCORRECT: to send -> envoyer[0m
+2025-12-03 16:26:06,580 - INFO - [92mCORRECT: shirt -> chemise (f)[0m
+2025-12-03 16:26:06,811 - INFO - [92mCORRECT: young; young person -> jeune; jeune (m)[0m
+2025-12-03 16:26:07,037 - INFO - [92mCORRECT: to avoid -> éviter[0m
+2025-12-03 16:26:07,260 - INFO - [92mCORRECT: story -> histoire (f)[0m
+2025-12-03 16:26:07,531 - INFO - [92mCORRECT: toilet(s) -> toilettes (fpl)[0m
+2025-12-03 16:26:07,755 - INFO - [92mCORRECT: bus -> bus (m)[0m
+2025-12-03 16:26:07,985 - INFO - [92mCORRECT: uncle -> oncle (m)[0m
+2025-12-03 16:26:08,233 - INFO - [92mCORRECT: birth -> naissance (f)[0m
+2025-12-03 16:26:08,495 - INFO - [92mCORRECT: member -> membre (m)[0m
+2025-12-03 16:26:08,731 - INFO - [92mCORRECT: activity -> activité (f)[0m
+2025-12-03 16:26:08,966 - INFO - [92mCORRECT: trousers -> pantalon (m)[0m
+2025-12-03 16:26:09,218 - INFO - [92mCORRECT: jumper -> pull (m)[0m
+2025-12-03 16:26:09,462 - INFO - [92mCORRECT: step-mother -> belle-mère (f)[0m
+2025-12-03 16:26:09,716 - INFO - [92mCORRECT: souvenir -> souvenir (m)[0m
+2025-12-03 16:26:09,963 - INFO - [92mCORRECT: opinion -> avis (m)[0m
+2025-12-03 16:26:10,191 - INFO - [92mCORRECT: public -> publique[0m
+2025-12-03 16:26:10,428 - INFO - [92mCORRECT: pen -> stylo (m)[0m
+2025-12-03 16:26:10,681 - INFO - [92mCORRECT: effort -> effort (m)[0m
+2025-12-03 16:26:10,927 - INFO - [92mCORRECT: result -> résultat (m)[0m
+2025-12-03 16:26:11,178 - INFO - [92mCORRECT: third -> troisième[0m
+2025-12-03 16:26:11,441 - INFO - [92mCORRECT: text -> texte (m)[0m
+2025-12-03 16:26:11,702 - INFO - [92mCORRECT: pupil -> élève (mf)[0m
+2025-12-03 16:26:11,958 - INFO - [92mCORRECT: to forbid -> interdire de[0m
+2025-12-03 16:26:12,219 - ERROR - [91mWRONG: event -> gave: événement (m)^ | correct: événement ^[0m
+2025-12-03 16:26:17,345 - WARNING - Retry button disabled, reloading page...
+2025-12-03 16:26:22,386 - INFO - [92mCORRECT: weak -> faible[0m
+2025-12-03 16:26:22,689 - INFO - [92mCORRECT: concert -> concert (m)[0m
+2025-12-03 16:26:22,953 - INFO - [92mCORRECT: grandmother -> grand-mère (m)[0m
+2025-12-03 16:26:23,212 - INFO - [92mCORRECT: room -> salle (f)[0m
+2025-12-03 16:26:23,499 - INFO - [92mCORRECT: attitude -> attitude (f)[0m
+2025-12-03 16:26:23,737 - INFO - [92mCORRECT: pitch (sports) -> terrain (m)[0m
+2025-12-03 16:26:23,970 - INFO - [92mCORRECT: reading -> lecture (f)[0m
+2025-12-03 16:26:24,194 - INFO - [92mCORRECT: blond -> blond[0m
+2025-12-03 16:26:24,422 - INFO - [92mCORRECT: to adopt -> adopter[0m
+2025-12-03 16:26:24,698 - INFO - [92mCORRECT: to count (on) -> compter (sur)[0m
+2025-12-03 16:26:24,935 - INFO - [92mCORRECT: break (time) -> pause (f)[0m
+2025-12-03 16:26:25,162 - INFO - [92mCORRECT: responsible -> responsable[0m
+2025-12-03 16:26:25,381 - INFO - [92mCORRECT: friend -> ami (m)[0m
+2025-12-03 16:26:25,635 - INFO - [92mCORRECT: paper -> papier (m)[0m
+2025-12-03 16:26:25,869 - INFO - [92mCORRECT: sixth form -> lycée (m)[0m
+2025-12-03 16:26:26,107 - INFO - [92mCORRECT: mobile phone -> portable (m)[0m
+2025-12-03 16:26:26,323 - INFO - [92mCORRECT: model -> modèle (m)[0m
+2025-12-03 16:26:26,555 - INFO - [92mCORRECT: to be...years old -> avoir...ans[0m
+2025-12-03 16:26:26,805 - INFO - [92mCORRECT: community -> communauté (f)[0m
+2025-12-03 16:26:27,047 - INFO - [92mCORRECT: popular -> populaire[0m
+2025-12-03 16:26:27,272 - INFO - [92mCORRECT: grandparents -> grands-parents (mpl)[0m
+2025-12-03 16:26:27,511 - INFO - [92mCORRECT: red -> roux[0m
+2025-12-03 16:26:27,724 - INFO - [92mCORRECT: to improve -> améliorer[0m
+2025-12-03 16:26:27,930 - INFO - [92mCORRECT: visit -> visite (f)[0m
+2025-12-03 16:26:28,147 - INFO - [92mCORRECT: science -> science (f)[0m
+2025-12-03 16:26:28,371 - INFO - [92mCORRECT: parent -> parent (m)[0m
+2025-12-03 16:26:28,620 - INFO - [92mCORRECT: bedroom -> chambre (f)[0m
+2025-12-03 16:26:28,842 - INFO - [92mCORRECT: mother -> mère (f)[0m
+2025-12-03 16:26:29,066 - INFO - [92mCORRECT: active -> actif[0m
+2025-12-03 16:26:29,284 - INFO - [92mCORRECT: present -> cadeau (m)[0m
+2025-12-03 16:26:29,503 - INFO - [92mCORRECT: woman -> femme (f)[0m
+2025-12-03 16:26:29,728 - INFO - [92mCORRECT: patient -> patient[0m
+2025-12-03 16:26:29,938 - INFO - [92mCORRECT: unique -> unique[0m
+2025-12-03 16:26:30,151 - INFO - [92mCORRECT: difficulty -> difficulté (f)[0m
+2025-12-03 16:26:30,373 - INFO - [92mCORRECT: husband -> mari (m)[0m
+2025-12-03 16:26:30,596 - INFO - [92mCORRECT: nice -> agréable[0m
+2025-12-03 16:26:30,808 - INFO - [92mCORRECT: older -> aîné^[0m
+2025-12-03 16:26:31,034 - INFO - [92mCORRECT: to lift -> lever; se lever[0m
+2025-12-03 16:26:31,244 - INFO - [92mCORRECT: at (the house of) -> chez[0m
+2025-12-03 16:26:31,464 - INFO - [92mCORRECT: mark -> note (f)[0m
+2025-12-03 16:26:31,689 - INFO - [92mCORRECT: second -> seconde[0m
+2025-12-03 16:26:31,901 - INFO - [92mCORRECT: to live -> habiter[0m
+2025-12-03 16:26:32,121 - INFO - [92mCORRECT: neighbour -> voisin (m)[0m
+2025-12-03 16:26:32,347 - INFO - [92mCORRECT: surprise -> surprise (f)[0m
+2025-12-03 16:26:32,563 - INFO - [92mCORRECT: show -> spectacle (m)[0m
+2025-12-03 16:26:32,819 - INFO - [92mCORRECT: to have -> avoir[0m
+2025-12-03 16:26:33,083 - INFO - [92mCORRECT: glad -> content[0m
+2025-12-03 16:26:33,307 - INFO - [92mCORRECT: start of school year -> rentrée (f)[0m
+2025-12-03 16:26:33,519 - INFO - [92mCORRECT: to dress; to get dressed -> habiller; s’habiller[0m
+2025-12-03 16:26:33,743 - ERROR - [91mWRONG: girl -> gave: fille (f) | correct: fille[0m
+2025-12-03 16:26:36,805 - WARNING - Retry button disabled, reloading page...
+2025-12-03 16:26:41,787 - INFO - [92mCORRECT: proud -> fier[0m
+2025-12-03 16:26:42,033 - INFO - [92mCORRECT: to look for -> chercher[0m
+2025-12-03 16:26:42,294 - INFO - [92mCORRECT: shoe -> chaussure (f)[0m
+2025-12-03 16:26:42,546 - INFO - [92mCORRECT: eyes -> yeux (mpl)[0m
+2025-12-03 16:26:42,780 - INFO - [92mCORRECT: festival -> fête (f)[0m
+2025-12-03 16:26:43,010 - INFO - [92mCORRECT: appointment -> rendez-vous (m)[0m
+2025-12-03 16:26:43,230 - INFO - [92mCORRECT: to work -> travailler[0m
+2025-12-03 16:26:43,445 - INFO - [92mCORRECT: step-sister -> demi-sœur (f)[0m
+2025-12-03 16:26:43,662 - INFO - [92mCORRECT: exit -> sortie (f)[0m
+2025-12-03 16:26:43,890 - INFO - [92mCORRECT: homework -> devoirs (mpl)[0m
+2025-12-03 16:26:44,108 - INFO - [92mCORRECT: to gather -> réunir[0m
+2025-12-03 16:26:44,326 - INFO - [92mCORRECT: friendship -> amitié (f)[0m
+2025-12-03 16:26:44,546 - INFO - [92mCORRECT: to succeed -> réussir (à)[0m
+2025-12-03 16:26:44,758 - INFO - [92mCORRECT: skirt -> jupe (f)[0m
+2025-12-03 16:26:44,981 - INFO - [92mCORRECT: sock -> chaussette (f)[0m
+2025-12-03 16:26:45,205 - INFO - [92mCORRECT: brother -> frère (m)[0m
+2025-12-03 16:26:45,426 - INFO - [92mCORRECT: book -> livre (m)[0m
+2025-12-03 16:26:45,648 - INFO - [92mCORRECT: subject -> matière (f)[0m
+2025-12-03 16:26:45,866 - INFO - [92mCORRECT: to go out -> sortir[0m
+2025-12-03 16:26:46,087 - INFO - [92mCORRECT: friend -> copain (m)[0m
+2025-12-03 16:26:46,303 - INFO - [92mCORRECT: easy -> facile[0m
+2025-12-03 16:26:46,519 - INFO - [92mCORRECT: playground -> cour (f)[0m
+2025-12-03 16:26:46,737 - INFO - [92mCORRECT: to meet (up) -> rencontrer[0m
+2025-12-03 16:26:46,953 - INFO - [92mCORRECT: relationship -> relation (f)[0m
+2025-12-03 16:26:47,182 - INFO - [92mCORRECT: work -> travail (m)[0m
+2025-12-03 16:26:47,400 - INFO - [92mCORRECT: religion -> religion (f)[0m
+2025-12-03 16:26:47,619 - INFO - [92mCORRECT: better -> meilleur[0m
+2025-12-03 16:26:47,837 - INFO - [92mCORRECT: kind -> gentil (m)[0m
+2025-12-03 16:26:48,054 - INFO - [92mCORRECT: hand -> main (f)[0m
+2025-12-03 16:26:48,266 - INFO - [92mCORRECT: studies -> études (fpl)[0m
+2025-12-03 16:26:48,516 - INFO - [92mCORRECT: art -> art (m)[0m
+2025-12-03 16:26:48,772 - INFO - [92mCORRECT: to present; to introduce yourself -> présenter; se présenter[0m
+2025-12-03 16:26:48,993 - INFO - [92mCORRECT: lesson -> cours (m)[0m
+2025-12-03 16:26:49,249 - INFO - [92mCORRECT: small -> petit[0m
+2025-12-03 16:26:49,510 - INFO - [92mCORRECT: grandfather -> grand-père (m)[0m
+2025-12-03 16:26:49,742 - INFO - [92mCORRECT: to arrive; to manage -> arriver; arriver à[0m
+2025-12-03 16:26:49,964 - INFO - [92mCORRECT: hardworking -> travailleur (m)[0m
+2025-12-03 16:26:50,216 - ERROR - [91mWRONG: kind -> gave: gentil (m) | correct: gentille[0m
+2025-12-03 16:26:50,254 - ERROR - Error processing question: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=142.0.7444.176)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff75543a235
+	0x7ff755192630
+	0x7ff754f216dd
+	0x7ff754ef8e31
+	0x7ff754faa22e
+	0x7ff754fcb3d2
+	0x7ff754f6b0ed
+	0x7ff754f6bf63
+	0x7ff755465d60
+	0x7ff75545fe8a
+	0x7ff755481005
+	0x7ff7551ad71e
+	0x7ff7551b4e1f
+	0x7ff75519b7c4
+	0x7ff75519b97f
+	0x7ff7551818e8
+	0x7ffd6a62e8d7
+	0x7ffd6bb6c53c
+Traceback (most recent call last):
+  File "d:\Python\Memriser\Memriser1.1.py", line 584, in run
+    self.process_question()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "d:\Python\Memriser\Memriser1.1.py", line 529, in process_question
+    answers = self.get_answers()
+  File "d:\Python\Memriser\Memriser1.1.py", line 466, in get_answers
+    container = self.wait_for_element(SELECTOR_ANSWER_CONTAINER)
+  File "d:\Python\Memriser\Memriser1.1.py", line 363, in wait_for_element
+    element = self.driver.find_element(by, selector)
+  File "C:\Users\ellis\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 926, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ellis\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\ellis\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=142.0.7444.176)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff75543a235
+	0x7ff755192630
+	0x7ff754f216dd
+	0x7ff754ef8e31
+	0x7ff754faa22e
+	0x7ff754fcb3d2
+	0x7ff754f6b0ed
+	0x7ff754f6bf63
+	0x7ff755465d60
+	0x7ff75545fe8a
+	0x7ff755481005
+	0x7ff7551ad71e
+	0x7ff7551b4e1f
+	0x7ff75519b7c4
+	0x7ff75519b97f
+	0x7ff7551818e8
+	0x7ffd6a62e8d7
+	0x7ffd6bb6c53c
+
+2025-12-03 16:26:51,001 - INFO - Closing browser...
+2025-12-03 16:26:51,003 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/489b33061b741d1942ed046948bb4183
+2025-12-03 16:31:42,786 - INFO - MemriseBot initialized
+2025-12-03 16:31:43,957 - INFO - Chrome driver initialized
+2025-12-03 16:31:43,957 - INFO - Logging in...
+2025-12-03 16:31:46,067 - INFO - Logged in successfully
+2025-12-03 16:31:46,067 - INFO - Starting speed review...
+2025-12-03 16:31:49,802 - INFO - Speed review started
+2025-12-03 16:31:49,802 - INFO - Starting main loop...
+2025-12-03 16:31:52,114 - INFO - [92mCORRECT: proud -> fier[0m
+2025-12-03 16:31:52,369 - INFO - [92mCORRECT: to look for -> chercher[0m
+2025-12-03 16:31:52,613 - INFO - [92mCORRECT: shoe -> chaussure (f)[0m
+2025-12-03 16:31:52,848 - INFO - [92mCORRECT: eyes -> yeux (mpl)[0m
+2025-12-03 16:31:53,103 - INFO - [92mCORRECT: festival -> fête (f)[0m
+2025-12-03 16:31:53,327 - INFO - [92mCORRECT: appointment -> rendez-vous (m)[0m
+2025-12-03 16:31:53,557 - INFO - [92mCORRECT: to work -> travailler[0m
+2025-12-03 16:31:53,793 - INFO - [92mCORRECT: step-sister -> demi-sœur (f)[0m
+2025-12-03 16:31:54,009 - INFO - [92mCORRECT: exit -> sortie (f)[0m
+2025-12-03 16:31:54,231 - INFO - [92mCORRECT: homework -> devoirs (mpl)[0m
+2025-12-03 16:31:54,452 - INFO - [92mCORRECT: to gather -> réunir[0m
+2025-12-03 16:31:54,682 - INFO - [92mCORRECT: friendship -> amitié (f)[0m
+2025-12-03 16:31:54,903 - INFO - [92mCORRECT: to succeed -> réussir (à)[0m
+2025-12-03 16:31:55,123 - INFO - [92mCORRECT: skirt -> jupe (f)[0m
+2025-12-03 16:31:55,351 - INFO - [92mCORRECT: sock -> chaussette (f)[0m
+2025-12-03 16:31:55,577 - INFO - [92mCORRECT: brother -> frère (m)[0m
+2025-12-03 16:31:55,799 - INFO - [92mCORRECT: book -> livre (m)[0m
+2025-12-03 16:31:56,053 - INFO - [92mCORRECT: subject -> matière (f)[0m
+2025-12-03 16:31:56,344 - INFO - [92mCORRECT: to go out -> sortir[0m
+2025-12-03 16:31:56,624 - INFO - [92mCORRECT: friend -> copain (m)[0m
+2025-12-03 16:31:56,924 - INFO - [92mCORRECT: easy -> facile[0m
+2025-12-03 16:31:57,178 - INFO - [92mCORRECT: playground -> cour (f)[0m
+2025-12-03 16:31:57,441 - INFO - [92mCORRECT: to meet (up) -> rencontrer[0m
+2025-12-03 16:31:57,767 - INFO - [92mCORRECT: relationship -> relation (f)[0m
+2025-12-03 16:31:58,072 - INFO - [92mCORRECT: work -> travail (m)[0m
+2025-12-03 16:31:58,323 - INFO - [92mCORRECT: religion -> religion (f)[0m
+2025-12-03 16:31:58,581 - INFO - [92mCORRECT: better -> meilleur[0m
+2025-12-03 16:31:58,817 - ERROR - [91mWRONG: kind -> gave: gentille (f) | correct: gentil[0m
+2025-12-03 16:31:59,042 - INFO - [92mCORRECT: hand -> main (f)[0m
+2025-12-03 16:31:59,270 - INFO - [92mCORRECT: studies -> études (fpl)[0m
+2025-12-03 16:31:59,494 - INFO - [92mCORRECT: art -> art (m)[0m
+2025-12-03 16:31:59,708 - INFO - [92mCORRECT: to present; to introduce yourself -> présenter; se présenter[0m
+2025-12-03 16:31:59,925 - INFO - [92mCORRECT: lesson -> cours (m)[0m
+2025-12-03 16:32:00,143 - INFO - [92mCORRECT: small -> petit[0m
+2025-12-03 16:32:00,362 - INFO - [92mCORRECT: grandfather -> grand-père (m)[0m
+2025-12-03 16:32:00,580 - INFO - [92mCORRECT: to arrive; to manage -> arriver; arriver à[0m
+2025-12-03 16:32:00,802 - INFO - [92mCORRECT: hardworking -> travailleur (m)[0m
+2025-12-03 16:32:01,012 - INFO - [92mCORRECT: kind -> gentille (f)[0m
+2025-12-03 16:32:01,226 - INFO - [92mCORRECT: to have to -> devoir*[0m
+2025-12-03 16:32:01,450 - INFO - [92mCORRECT: to study -> étudier[0m
+2025-12-03 16:32:01,670 - INFO - [92mCORRECT: lesson -> leçon (f)[0m
+2025-12-03 16:32:01,886 - INFO - [92mCORRECT: family -> famille (f)[0m
+2025-12-03 16:32:02,103 - INFO - [92mCORRECT: hair -> cheveux (mpl)[0m
+2025-12-03 16:32:02,353 - ERROR - [91mWRONG: personal -> gave: personne (f) | correct: personnel[0m
+2025-12-03 16:32:02,581 - INFO - [92mCORRECT: maths -> maths (mpl)[0m
+2025-12-03 16:32:02,813 - INFO - [92mCORRECT: to speak -> parler[0m
+2025-12-03 16:32:03,026 - INFO - [92mCORRECT: to do -> faire; faire de + noun*[0m
+2025-12-03 16:32:03,241 - INFO - [92mCORRECT: public -> public (m)[0m
+2025-12-03 16:32:03,463 - INFO - [92mCORRECT: fourth -> quatrième[0m
+2025-12-03 16:32:03,696 - ERROR - [91mWRONG: son -> gave: fils (m) | correct: fils[0m
+2025-12-03 16:32:04,775 - INFO - Reloading...
+2025-12-03 16:32:08,837 - INFO - [92mCORRECT: life -> vie (f)[0m
+2025-12-03 16:32:09,076 - INFO - [92mCORRECT: classroom -> classe (f)[0m
+2025-12-03 16:32:09,339 - INFO - [92mCORRECT: education -> éducation (f)[0m
+2025-12-03 16:32:09,564 - INFO - [92mCORRECT: dance -> danse (f)[0m
+2025-12-03 16:32:09,788 - INFO - [92mCORRECT: independent -> indépendant[0m
+2025-12-03 16:32:10,001 - INFO - [92mCORRECT: experience -> expérience (f)[0m
+2025-12-03 16:32:10,217 - INFO - [92mCORRECT: partner -> partenaire (mf)[0m
+2025-12-03 16:32:10,435 - INFO - [92mCORRECT: to inspire -> inspirer[0m
+2025-12-03 16:32:10,650 - INFO - [92mCORRECT: great -> grand; grand-[0m
+2025-12-03 16:32:10,872 - INFO - [92mCORRECT: father -> père (m)[0m
+2025-12-03 16:32:11,081 - INFO - [92mCORRECT: sister -> sœur (f)[0m
+2025-12-03 16:32:11,293 - INFO - [92mCORRECT: technology -> technologie (f)[0m
+2025-12-03 16:32:11,516 - INFO - [92mCORRECT: board -> tableau (m)[0m
+2025-12-03 16:32:11,726 - INFO - [92mCORRECT: personality -> personnalité (f)[0m
+2025-12-03 16:32:11,941 - INFO - [92mCORRECT: aunt -> tante (f)[0m
+2025-12-03 16:32:12,161 - INFO - [92mCORRECT: step-brother -> demi-frère (m)[0m
+2025-12-03 16:32:12,375 - INFO - [92mCORRECT: rule -> règle (f)[0m
+2025-12-03 16:32:12,588 - INFO - [92mCORRECT: dead -> mort[0m
+2025-12-03 16:32:12,807 - INFO - [92mCORRECT: step-father -> beau-père (m)[0m
+2025-12-03 16:32:13,020 - INFO - [92mCORRECT: to separate -> séparer; se séparer[0m
+2025-12-03 16:32:13,238 - INFO - [92mCORRECT: generation -> génération (f)[0m
+2025-12-03 16:32:13,459 - INFO - [92mCORRECT: success -> succès (m)[0m
+2025-12-03 16:32:13,682 - INFO - [92mCORRECT: adult -> adulte (m)[0m
+2025-12-03 16:32:13,903 - INFO - [92mCORRECT: quiet -> calme[0m
+2025-12-03 16:32:14,122 - INFO - [92mCORRECT: shopping centre -> centre commercial (m)[0m
+2025-12-03 16:32:14,340 - INFO - [92mCORRECT: language -> langue (f)[0m
+2025-12-03 16:32:14,569 - INFO - [92mCORRECT: strict -> strict[0m
+2025-12-03 16:32:14,785 - INFO - [92mCORRECT: birthday -> anniversaire (m)[0m
+2025-12-03 16:32:14,993 - INFO - [92mCORRECT: sporty -> sportif[0m
+2025-12-03 16:32:15,208 - INFO - [92mCORRECT: born -> né[0m
+2025-12-03 16:32:15,427 - INFO - [92mCORRECT: alone -> seul[0m
+2025-12-03 16:32:15,676 - INFO - [92mCORRECT: secret -> secret (m)[0m
+2025-12-03 16:32:15,909 - ERROR - [91mWRONG: twin -> gave: jumeau (m) | correct: jumelle[0m
+2025-12-03 16:32:16,136 - INFO - [92mCORRECT: friend -> copine (f)[0m
+2025-12-03 16:32:16,363 - INFO - [92mCORRECT: difficult -> difficile[0m
+2025-12-03 16:32:16,602 - INFO - [92mCORRECT: exercise book -> cahier (m)[0m
+2025-12-03 16:32:16,822 - INFO - [92mCORRECT: home -> foyer (m)[0m
+2025-12-03 16:32:17,041 - INFO - [92mCORRECT: twin -> jumeau (m)[0m
+2025-12-03 16:32:17,260 - ERROR - [91mWRONG: twin -> gave: jumelle (f) | correct: jumeaux[0m
+2025-12-03 16:32:17,509 - INFO - [92mCORRECT: school -> scolaire[0m
+2025-12-03 16:32:17,737 - INFO - [92mCORRECT: family -> familial[0m
+2025-12-03 16:32:17,957 - INFO - [92mCORRECT: glasses -> lunettes (fpl)[0m
+2025-12-03 16:32:18,170 - INFO - [92mCORRECT: to listen -> écouter[0m
+2025-12-03 16:32:18,386 - INFO - [92mCORRECT: music -> musique (f)[0m
+2025-12-03 16:32:18,604 - INFO - [92mCORRECT: to phone -> téléphoner[0m
+2025-12-03 16:32:18,819 - INFO - [92mCORRECT: to learn -> apprendre[0m
+2025-12-03 16:32:19,035 - INFO - [92mCORRECT: table -> table (f)[0m
+2025-12-03 16:32:19,249 - INFO - [92mCORRECT: teacher -> professeur, prof (mf)[0m
+2025-12-03 16:32:19,467 - INFO - [92mCORRECT: to run* -> courir*[0m
+2025-12-03 16:32:19,687 - ERROR - [91mWRONG: to invite -> gave: inviter | correct: inviter[0m
+2025-12-03 16:32:20,714 - INFO - Reloading...
+2025-12-03 16:32:25,177 - INFO - [92mCORRECT: to be...years old -> avoir...ans[0m
+2025-12-03 16:32:25,418 - INFO - [92mCORRECT: to smell; to feel -> sentir; se sentir[0m
+2025-12-03 16:32:25,631 - INFO - [92mCORRECT: hardworking -> travailleuse (f)[0m
+2025-12-03 16:32:25,856 - INFO - [92mCORRECT: to wear -> porter[0m
+2025-12-03 16:32:26,073 - INFO - [92mCORRECT: club -> club (m)[0m
+2025-12-03 16:32:26,289 - INFO - [92mCORRECT: sport -> sport (m)[0m
+2025-12-03 16:32:26,502 - INFO - [92mCORRECT: long -> long (m)[0m
+2025-12-03 16:32:26,721 - INFO - [92mCORRECT: age -> âge (m)[0m
+2025-12-03 16:32:26,935 - INFO - [92mCORRECT: to ignore -> ignorer[0m
+2025-12-03 16:32:27,151 - INFO - [92mCORRECT: loyal -> fidèle[0m
+2025-12-03 16:32:27,370 - INFO - [92mCORRECT: to look like -> ressembler à[0m
+2025-12-03 16:32:27,580 - INFO - [92mCORRECT: group -> groupe (m)[0m
+2025-12-03 16:32:27,787 - INFO - [92mCORRECT: excellent -> excellent[0m
+2025-12-03 16:32:28,006 - INFO - [92mCORRECT: sir -> monsieur[0m
+2025-12-03 16:32:28,240 - INFO - [92mCORRECT: strong -> fort[0m
+2025-12-03 16:32:28,451 - INFO - [92mCORRECT: man -> homme (m)[0m
+2025-12-03 16:32:28,668 - INFO - [92mCORRECT: social -> social[0m
+2025-12-03 16:32:28,881 - INFO - [92mCORRECT: extraordinary -> extraordinaire[0m
+2025-12-03 16:32:29,090 - INFO - [92mCORRECT: park -> parc (m)[0m
+2025-12-03 16:32:29,307 - INFO - [92mCORRECT: sad -> triste[0m
+2025-12-03 16:32:29,520 - INFO - [92mCORRECT: child -> enfant (mf)[0m
+2025-12-03 16:32:29,727 - INFO - [92mCORRECT: house -> maison (f)[0m
+2025-12-03 16:32:29,950 - INFO - [92mCORRECT: boy -> garçon (m)[0m
+2025-12-03 16:32:30,172 - INFO - [92mCORRECT: ideal -> idéal[0m
+2025-12-03 16:32:30,386 - INFO - [92mCORRECT: busy -> occupé[0m
+2025-12-03 16:32:30,614 - INFO - [92mCORRECT: cinema -> cinéma (m)[0m
+2025-12-03 16:32:30,825 - INFO - [92mCORRECT: to party -> faire la fête[0m
+2025-12-03 16:32:31,032 - INFO - [92mCORRECT: to recall -> rappeler; se rappeler de[0m
+2025-12-03 16:32:31,252 - INFO - [92mCORRECT: madam -> madame[0m
+2025-12-03 16:32:31,482 - INFO - [92mCORRECT: emotion -> émotion (f)[0m
+2025-12-03 16:32:31,706 - INFO - [92mCORRECT: research -> recherche (f)[0m
+2025-12-03 16:32:31,939 - INFO - [92mCORRECT: to spend (time) -> passer; se passer[0m
+2025-12-03 16:32:32,165 - INFO - [92mCORRECT: page -> page (f)[0m
+2025-12-03 16:32:32,377 - INFO - [92mCORRECT: aid -> aide (f)[0m
+2025-12-03 16:32:32,606 - INFO - [92mCORRECT: private -> privé[0m
+2025-12-03 16:32:32,856 - INFO - [92mCORRECT: exam -> examen (m)[0m
+2025-12-03 16:32:33,114 - INFO - [92mCORRECT: exchange -> échange (m)[0m
+2025-12-03 16:32:33,403 - INFO - [92mCORRECT: theatre -> théâtre (m)[0m
+2025-12-03 16:32:33,715 - INFO - [92mCORRECT: equipment -> équipement (m)[0m
+2025-12-03 16:32:33,959 - INFO - [92mCORRECT: to understand -> comprendre[0m
+2025-12-03 16:32:34,203 - INFO - [92mCORRECT: holidays -> vacances (fpl)[0m
+2025-12-03 16:32:34,470 - INFO - [92mCORRECT: uniform -> uniforme (m)[0m
+2025-12-03 16:32:34,719 - INFO - [92mCORRECT: building -> bâtiment (m)[0m
+2025-12-03 16:32:34,955 - INFO - [92mCORRECT: quality -> qualité (f)[0m
+2025-12-03 16:32:35,176 - INFO - [92mCORRECT: to respect -> respecter[0m
+2025-12-03 16:32:35,401 - INFO - [92mCORRECT: hour -> heure (f)[0m
+2025-12-03 16:32:35,641 - INFO - [92mCORRECT: school -> école (f)[0m
+2025-12-03 16:32:35,874 - INFO - [92mCORRECT: to be -> être[0m
+2025-12-03 16:32:36,123 - INFO - [92mCORRECT: secondary school -> collège (m)[0m
+2025-12-03 16:32:36,362 - ERROR - [91mWRONG: bag -> gave: sac (m) | correct: sac[0m
+2025-12-03 16:32:37,901 - INFO - Reloading...
+2025-12-03 16:32:40,601 - ERROR - Error processing question: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff75543a235
+	0x7ff755192630
+	0x7ff754f216dd
+	0x7ff754f0d205
+	0x7ff754f32a8a
+	0x7ff754faa476
+	0x7ff754fcb3d2
+	0x7ff754f6b0ed
+	0x7ff754f6bf63
+	0x7ff755465d60
+	0x7ff75545fe8a
+	0x7ff755481005
+	0x7ff7551ad71e
+	0x7ff7551b4e1f
+	0x7ff75519b7c4
+	0x7ff75519b97f
+	0x7ff7551818e8
+	0x7ffd6a62e8d7
+	0x7ffd6bb6c53c
+Traceback (most recent call last):
+  File "d:\Python\Memriser\Memriser1.1.py", line 388, in run
+    except KeyboardInterrupt:
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "d:\Python\Memriser\Memriser1.1.py", line 344, in process_question
+    prompt = clean_prompt(raw_prompt)
+                 ^^^^^^^^^^^^^^^^^
+  File "d:\Python\Memriser\Memriser1.1.py", line 291, in get_prompt
+    return elem.text.strip()
+           ~~~~~~~~~~~~~~~^^
+  File "d:\Python\Memriser\Memriser1.1.py", line 230, in wait_for_element
+    return element
+              ^^^^
+  File "C:\Users\ellis\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 926, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ellis\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\ellis\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff75543a235
+	0x7ff755192630
+	0x7ff754f216dd
+	0x7ff754f0d205
+	0x7ff754f32a8a
+	0x7ff754faa476
+	0x7ff754fcb3d2
+	0x7ff754f6b0ed
+	0x7ff754f6bf63
+	0x7ff755465d60
+	0x7ff75545fe8a
+	0x7ff755481005
+	0x7ff7551ad71e
+	0x7ff7551b4e1f
+	0x7ff75519b7c4
+	0x7ff75519b97f
+	0x7ff7551818e8
+	0x7ffd6a62e8d7
+	0x7ffd6bb6c53c
+
+2025-12-03 16:32:41,187 - INFO - Closing browser...
+2025-12-03 16:32:41,189 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/cba95521911d0614627bf91781d76c10
